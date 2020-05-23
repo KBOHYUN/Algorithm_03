@@ -5,9 +5,13 @@ Name : BOHYUN KIM
 
 ## Contents with each Model
   *What model you used
+  
   *Training and Training loss
+  
   *Test Accuracy result
+  
   *Images and corresponding probability that are predicted right
+   
   *Images and corresponding probability that are predicted wrong
 
 ## Model 1 : 3 Layers with 1 Convolution Layer
