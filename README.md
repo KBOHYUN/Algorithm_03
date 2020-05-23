@@ -42,19 +42,19 @@ Name : BOHYUN KIM
   ![model2](https://user-images.githubusercontent.com/39620387/82724384-b4686700-9d10-11ea-993f-17c4e1a1fad8.JPG)
 
  * **Summary of Model**
-  ![model2_summary](https://user-images.githubusercontent.com/39620387/82724392-c64a0a00-9d10-11ea-8e71-8c7c0c2f9f67.JPG)
+  ![model2_summary](https://user-images.githubusercontent.com/39620387/82724812-b5e75e80-9d13-11ea-8d3e-4bfbd73193cb.JPG)
 
  * **Training with Traing loss**
-  ![model2_tarin](https://user-images.githubusercontent.com/39620387/82724397-d235cc00-9d10-11ea-9570-a9bad7d5bd61.JPG)
+  ![model2_tarin](https://user-images.githubusercontent.com/39620387/82724828-c39ce400-9d13-11ea-8f68-1d681b0b17d5.JPG)
  
  * **Test Accuracy**
-   ![model2_accurate](https://user-images.githubusercontent.com/39620387/82724402-dbbf3400-9d10-11ea-94d7-93b3845aac63.JPG)
+   ![model2_accurate](https://user-images.githubusercontent.com/39620387/82724836-ce577900-9d13-11ea-9885-db7a88523158.JPG)
 
  * **Predicted Right**
-   ![model2_right](https://user-images.githubusercontent.com/39620387/82724403-e37ed880-9d10-11ea-864b-00696b0c1f6c.JPG)
+   ![model2_right](https://user-images.githubusercontent.com/39620387/82724842-d8797780-9d13-11ea-8cf5-51868979db89.JPG)
 
  * **Predicted Wrong**
-   ![mode2_wrong](https://user-images.githubusercontent.com/39620387/82724406-ed084080-9d10-11ea-8b5c-37453714179a.JPG)
+   ![model2_wrong](https://user-images.githubusercontent.com/39620387/82724859-ee873800-9d13-11ea-9b24-b80223307471.JPG)
 
 
 ## Model 3 : 7 Layers with 4 Convolution Layer
