@@ -76,6 +76,3 @@ Name : BOHYUN KIM
  * **Predicted Wrong**
    ![model3_wrong](https://user-images.githubusercontent.com/39620387/82724505-994a2700-9d11-11ea-9ad5-0af2a4b7c601.JPG)
    
- ## Test Loss & Accuracy Graph
- ![graph](https://user-images.githubusercontent.com/39620387/82725098-96513580-9d15-11ea-9aea-50add9f960f0.png)
-
