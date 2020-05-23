@@ -1,9 +1,9 @@
 # Algorithm_03
-## Student ID : 20186684
-## Name : BOHYUN KIM
+Student ID : 20186684
+Name : BOHYUN KIM
 
-# Test 1
+## Test 1
 
-# Test 2
+## Test 2
 
-# Test 3
+## Test 3
