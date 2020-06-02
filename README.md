@@ -17,7 +17,7 @@ Machine Learning and Deep Learning are subfields of Artificial Intelligence (AI)
 
 Deep Learning inspired by hierarchical structure of the human brain called artificial neural networks with the neuron nodes connected as a web.
 
-Classification used to achieve the goal to predict the categorical class labels. Three are two different classification; binary and multi-class classification. The 
+Classification used to achieve the goal to predict the categorical class labels. Three are two different classification; binary and multi-class classification.
 
 
 ## Contents with each Model
@@ -94,6 +94,7 @@ Classification used to achieve the goal to predict the categorical class labels.
    ![model3_wrong](https://user-images.githubusercontent.com/39620387/82724505-994a2700-9d11-11ea-9ad5-0af2a4b7c601.JPG)
    
 
+&#128196;
 ## Assigment Report
   https://github.com/KBOHYUN/Algorithm_03/files/4715892/Algorithms4_20186684.pdf
 
