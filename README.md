@@ -93,7 +93,7 @@ Classification used to achieve the goal to predict the categorical class labels.
    ![model3_wrong](https://user-images.githubusercontent.com/39620387/82724505-994a2700-9d11-11ea-9ad5-0af2a4b7c601.JPG)
    
 
-+ Reference
+## * Reference
  <https://github.com/Jin0316/Algorithm>
  
 
