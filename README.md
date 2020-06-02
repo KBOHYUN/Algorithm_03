@@ -6,12 +6,13 @@ Name : BOHYUN KIM
 Computer System version : Windows 10 64-bits
 
 
-## +Open Source Software (OSS)
+* Open Source Software (OSS)
 Open source software (OSS) means software with source code that anyone can inspect and modify. 
 
 When use oss, users must accept the terms of a license. Open source licenses affect the way to use, modify and distribute software.
 
-## +Deep Learning & Classification
+
+*Deep Learning & Classification
 Machine Learning and Deep Learning are subfields of Artificial Intelligence (AI).
 
 Deep Learning inspired by hierarchical structure of the human brain called artificial neural networks with the neuron nodes connected as a web.
@@ -97,7 +98,7 @@ Classification used to achieve the goal to predict the categorical class labels.
   https://github.com/KBOHYUN/Algorithm_03/files/4715892/Algorithms4_20186684.pdf
 
 
-## +Reference
+*Reference
  <https://github.com/Jin0316/Algorithm>
  
 
