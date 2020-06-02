@@ -34,7 +34,7 @@ Classification used to achieve the goal to predict the categorical class labels.
   * Images and corresponding probability predicted wrong
 
 
-&#10004; ## Model 1 : 3 Layers with 1 Convolution Layer
+## Model 1 : 3 Layers with 1 Convolution Layer
  * **Model**
   ![model1](https://user-images.githubusercontent.com/39620387/82724169-25a71a80-9d0f-11ea-8be7-27f2e2cf7f8b.JPG)
 
@@ -54,7 +54,7 @@ Classification used to achieve the goal to predict the categorical class labels.
   ![model_wrong](https://user-images.githubusercontent.com/39620387/82724202-6868f280-9d0f-11ea-80c0-5618927ef3bf.JPG)
 
 
-&#10004; ## Model 2 : 5 Layers with 2 Convolution Layer
+## Model 2 : 5 Layers with 2 Convolution Layer
  * **Model**
   ![model2](https://user-images.githubusercontent.com/39620387/82724384-b4686700-9d10-11ea-993f-17c4e1a1fad8.JPG)
 
@@ -74,7 +74,7 @@ Classification used to achieve the goal to predict the categorical class labels.
    ![model2_wrong](https://user-images.githubusercontent.com/39620387/82724859-ee873800-9d13-11ea-9b24-b80223307471.JPG)
 
 
-&#10004; ## Model 3 : 7 Layers with 4 Convolution Layer
+## Model 3 : 7 Layers with 4 Convolution Layer
  * **Model**
    ![model3](https://user-images.githubusercontent.com/39620387/82724468-6738c500-9d11-11ea-85d3-75629c5f20c1.JPG)
 
@@ -94,8 +94,8 @@ Classification used to achieve the goal to predict the categorical class labels.
    ![model3_wrong](https://user-images.githubusercontent.com/39620387/82724505-994a2700-9d11-11ea-9ad5-0af2a4b7c601.JPG)
    
 
-&#128196; ## Assigment Report
-  https://github.com/KBOHYUN/Algorithm_03/files/4715892/Algorithms4_20186684.pdf
+## Assigment Report
+ &#128196; https://github.com/KBOHYUN/Algorithm_03/files/4715892/Algorithms4_20186684.pdf
 
 
 ## Reference
