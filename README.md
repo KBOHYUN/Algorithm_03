@@ -99,6 +99,6 @@ Classification used to achieve the goal to predict the categorical class labels.
 
 
 ## Reference
- <https://github.com/Jin0316/Algorithm>
+ 	&#10095; <https://github.com/Jin0316/Algorithm>
  
 
